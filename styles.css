@@ -1,0 +1,56 @@
+body {
+    font-family: 'Montserrat'; 
+    text-align: center;
+    color: #404258;
+    background-image: linear-gradient(to right, #FEA1A1 , #FFEBEB, #ADE4DB);
+}
+
+button {
+    margin-left: 5px;
+}
+
+.chat {
+    padding: 2% 5%;
+    margin: 3% 7%;
+    border-radius: 10px;
+    background-color: #fff;
+    text-align: left;
+}
+.main-heading {
+    color: #5F264A;
+    font-family: 'Ubuntu';
+    font-size: 2.5rem;
+    font-weight: bold;
+    padding-top: 7%;
+    padding-bottom: 5%;
+}
+
+.container-footer {
+    margin: 3% 0 2% 0;
+}
+.footer {
+    color: #ACB1D6;
+    font-family: 'Ubuntu';
+    font-size: 0.85rem;
+    letter-spacing: 1.5px;
+}
+
+#prompt {
+    width: 50%;
+}
+
+p, #user {
+    color: black;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+ #user {
+    font-weight: bold;
+    letter-spacing:-1px;
+    font-size: 1.3rem;
+ }
+
+#shrimpy-gpt {
+    height: 35px;
+    width: auto;
+}
